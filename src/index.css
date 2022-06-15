@@ -1,0 +1,30 @@
+.TopGrid{
+  min-height: 100px;
+  background-color: blueviolet;
+  color: white;
+  font-size: 30px;
+}
+
+.datas{
+background-color:rgb(181, 123, 234) ;
+}
+
+.rheight{
+  min-height: 100px;
+}
+
+.errors{
+color: blue;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.table{
+  background-color: rgb(185, 122, 245);
+  color: white;
+}
+
